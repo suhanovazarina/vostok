@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Cormorant+Garamond:ital,wght@0,500;1,300&display=swap');
+body{
+    font-family: 'Cormorant Garamond', serif;
+}
+.a{
+    background-image: url(../img/wft6Rpky8uk.jpg);
+}
+.b{
+    background-image: url(../img/1ih36yAstlw.jpg);
+}
+.c{
+    background-image: url(../img/nVjrP4sZM5I.jpg);
+}
+.d{
+    background-image: url(../img/RQddhqJl_2I.jpg);
+}
+.e{
+    background-image: url(../img/1Ud03FZV_XE.jpg);
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    font-size: 35px;
+   
+}
+p{
+    font-size: 25px;
+    background-color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: cadetblue;
+}
+img{
+    max-width: 300px;
+    max-height: 250px;
+    margin: 10px;
+}
+.link-p{
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    text-align: center;
+}
+.s-three{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.s-two{
+    display: flex;
+    justify-content: space-between;
+}
+.s-one{
+    display: flex;
+    flex-direction: column;
+}
+.img{
+    max-width: 45px;
+}
+.play{
+    display: flex;
+    flex-direction: row;
+}
+.geit{
+    background-color: white;
+}
+h1{
+    text-align: center;
+    color: white;
+
+}
+h2{
+    color: white;
+}
